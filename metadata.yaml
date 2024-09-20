@@ -1,5 +1,8 @@
 _repo: Die-alteste-Kunst-insbesondere-die-Baukunst-der-Germanen-von-der-Volkerwanderung-bis-zu-Karl-__74299
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74299-h/images/cover.jpg
 creator:
   author:
     agent_name: Haupt, Albrecht
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57431
     wikipedia: https://de.wikipedia.org/wiki/Albrecht_Haupt_(Architekt)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74299#Die-alteste-Kunst-insbesondere-die-Baukunst-der-Germanen-von-der-Volkerwanderung-bis-zu-Karl-_
 gutenberg_issued: '2024-08-22'
 gutenberg_type: Text
 identifiers:
